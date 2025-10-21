@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="lg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ffe6f2"/>
+      <stop offset="100%" stop-color="#f7f0ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#lg)"/>
+  <!-- soft decorative shapes -->
+  <g opacity="0.95">
+    <circle cx="150" cy="120" r="90" fill="#ffd6e8" />
+    <circle cx="1100" cy="480" r="140" fill="#ffebf7" />
+    <g transform="translate(920,90) scale(0.9)">
+      <path d="M20 35 C 20 20, 45 10, 50 25 C55 10, 80 20, 80 35 C80 60, 50 80, 50 80 C50 80, 20 60, 20 35 Z" fill="#ff9ccf"/>
+    </g>
+  </g>
+  <g fill="#6b0a3f" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
+    <text x="80" y="160" font-size="64" font-weight="700">Community Helper App</text>
+    <text x="80" y="220" font-size="28">Volunteers helping neighbors with heart</text>
+  </g>
+  <g>
+    <rect x="80" y="260" rx="28" width="360" height="72" fill="#ff9ccf"/>
+    <text x="260" y="308" text-anchor="middle" fill="#fff" font-size="20" font-weight="700">Get Involved</text>
+  </g>
+</svg>
