@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <rect width="100%" height="100%" fill="#fff7fb"/>
+  <g>
+    <circle cx="110" cy="110" r="90" fill="#ffd6e8"/>
+    <circle cx="190" cy="170" r="50" fill="#ffc9e8"/>
+    <rect x="420" y="120" width="560" height="340" rx="30" fill="#fff" opacity="0.6"/>
+  </g>
+  <g fill="#7a1a4a" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
+    <text x="480" y="250" font-size="44" font-weight="700">Find Local Helpers</text>
+    <text x="480" y="300" font-size="22">Friendly neighbors. Real help.</text>
+  </g>
+  <g transform="translate(480,360)">
+    <rect rx="16" width="280" height="56" fill="#ff9ccf"/>
+    <text x="140" y="36" text-anchor="middle" fill="#fff" font-size="18" font-weight="700">Explore Events</text>
+  </g>
+</svg>
